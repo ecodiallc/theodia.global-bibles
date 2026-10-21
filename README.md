@@ -1,10 +1,19 @@
 # Global Bibles
 
-| Bible                              | Code  | Description                       |
-|-----------------------------------------|-------|-----------------------------------|
-| Biblia Gdańska.bible.zip                | pl/pol | Updated Gdańsk Bible              |
-| Українська Біблія.bible.zip             | uk/ukr |                                   |
-| Freie Bibel 2004.bible.zip              | de/ger |                                   |
-| Biblia Platense.bible.zip               | es/spa | Biblia Platense (Straubinger)     |
-| Reina-Valera.bible.zip                  | es/spa | Spanish Reina-Valera              |
-| كتاب الحياة.bible.zip                   | ar/ara | New Arabic Version (Ketab El Hayat) |
+| ID | Name |
+| --- | ---- |
+| `polugdanska` | Biblia Gdańska |
+| `spaplatense` | Biblia Platense |
+| `fb2004` | Freie Bibel 2004 |
+| `sparv` | Reina-Valera |
+| `ukrub` | Українська Біблія |
+| `aranav` | كتاب الحياة |
+
+## Sources
+
+- `polugdanska`: Updated Gdańsk Bible — Polish translation.
+- `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.
+- `fb2004`: Freie Bibel 2004 — German translation.
+- `sparv`: Spanish Reina-Valera — Spanish translation.
+- `ukrub`: Ukrainian Version — Ukrainian translation.
+- `aranav`: New Arabic Version (Ketab El Hayat) — Arabic translation.

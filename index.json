@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "polugdanska",
+      "type": "bible",
+      "path": "Biblia-Gdańska.bible.zip",
+      "name": "Biblia Gdańska",
+      "description": "Updated Gdańsk Bible — Polish translation.",
+      "code": "PolUGdanska",
+      "locale": "pl",
+      "version": "1.0.0",
+      "storageName": "PolUGdanska"
+    },
+    {
+      "id": "spaplatense",
+      "type": "bible",
+      "path": "Biblia-Platense.bible.zip",
+      "name": "Biblia Platense",
+      "description": "Biblia Platense (Straubinger) — Spanish translation.",
+      "code": "SpaPlatense",
+      "locale": "es",
+      "version": "1.0.0",
+      "storageName": "SpaPlatense"
+    },
+    {
+      "id": "fb2004",
+      "type": "bible",
+      "path": "Freie-Bibel-2004.bible.zip",
+      "name": "Freie Bibel 2004",
+      "description": "Freie Bibel 2004 — German translation.",
+      "code": "FB2004",
+      "locale": "de",
+      "version": "1.0.0",
+      "storageName": "FB2004"
+    },
+    {
+      "id": "sparv",
+      "type": "bible",
+      "path": "Reina-Valera.bible.zip",
+      "name": "Reina-Valera",
+      "description": "Spanish Reina-Valera — Spanish translation.",
+      "code": "SPARV",
+      "locale": "es",
+      "version": "1.0.0",
+      "storageName": "SPARV"
+    },
+    {
+      "id": "ukrub",
+      "type": "bible",
+      "path": "Українська-Біблія.bible.zip",
+      "name": "Українська Біблія",
+      "description": "Ukrainian Version — Ukrainian translation.",
+      "code": "UKRUB",
+      "locale": "uk",
+      "version": "1.0.0",
+      "storageName": "UKRUB"
+    },
+    {
+      "id": "aranav",
+      "type": "bible",
+      "path": "كتاب-الحياة.bible.zip",
+      "name": "كتاب الحياة",
+      "description": "New Arabic Version (Ketab El Hayat) — Arabic translation.",
+      "code": "ARANAV",
+      "locale": "ar",
+      "version": "1.0.0",
+      "storageName": "ARANAV"
+    }
+  ]
+}
