@@ -7,6 +7,7 @@
 | `polugdanska` | Biblia Gdańska |
 | `spaplatense` | Biblia Platense |
 | `sparv` | Reina-Valera |
+| `ntbt` | Nueva Traducción BibliaTodo |
 | `ukrub` | Українська Біблія |
 
 ## Sources
@@ -16,6 +17,7 @@
 - `polugdanska`: Updated Gdańsk Bible — Polish translation.
 - `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.
 - `sparv`: Spanish Reina-Valera — Spanish translation.
+- `ntbt`: Nueva Traducción BibliaTodo (NTBT) — Spanish Bible translation, published by BibliaTodo Bible Society with permission for free digital distribution.
 - `ukrub`: Ukrainian Version — Ukrainian translation.
 
 ### Download Theodia.app

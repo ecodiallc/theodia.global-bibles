@@ -47,6 +47,17 @@
       "storageName": "SPARV"
     },
     {
+      "id": "ntbt",
+      "type": "bible",
+      "path": "NTBT.bible.zip",
+      "name": "Nueva Traducción BibliaTodo",
+      "description": "Nueva Traducción BibliaTodo (NTBT) — Spanish Bible translation, published by BibliaTodo Bible Society.",
+      "code": "NTBT",
+      "locale": "es",
+      "version": "1.0.0",
+      "storageName": "NTBT"
+    },
+    {
       "id": "ukrub",
       "type": "bible",
       "path": "Українська-Біблія.bible.zip",
