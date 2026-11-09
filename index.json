@@ -133,6 +133,17 @@
       "locale": "nl",
       "version": "1.0.0",
       "storageName": "DUTCHSV"
+    },
+    {
+      "id": "ruc28",
+      "type": "bible",
+      "path": "Cornilescu-1928.bible.zip",
+      "name": "Cornilescu (1928)",
+      "description": "Cornilescu (1928) — Romanian translation.",
+      "code": "RUC28",
+      "locale": "ro",
+      "version": "1.0.0",
+      "storageName": "RUC28"
     }
   ]
 }

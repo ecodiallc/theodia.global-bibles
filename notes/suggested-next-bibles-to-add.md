@@ -35,7 +35,7 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 | ⬜ | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
 | ✅ | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
 | 🔄 | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
-| 🔄 | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
+| ✅ | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
 | ⬜ | `ru` | Russian | `RUS/` | Russian Synodal Translation |
 | ⬜ | `tl` | Tagalog | `TGL/` | Ang Dating Biblia |
 | ⬜ | `vi` | Vietnamese | `VIE/` | Vietnamese Version |
