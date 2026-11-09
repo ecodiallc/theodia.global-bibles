@@ -166,6 +166,17 @@
       "locale": "pt",
       "version": "1.0.0",
       "storageName": "PTACF"
+    },
+    {
+      "id": "tlgadb",
+      "type": "bible",
+      "path": "Ang-Dating-Biblia.bible.zip",
+      "name": "Ang Dating Biblia",
+      "description": "Ang Dating Biblia — Tagalog translation (Philippines Bible Society, 1905). Public Domain (SourceForge zefania-sharp).",
+      "code": "TLGADB",
+      "locale": "tl",
+      "version": "1.0.0",
+      "storageName": "TLGADB"
     }
   ]
 }

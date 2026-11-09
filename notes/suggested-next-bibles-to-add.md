@@ -37,7 +37,7 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 | ✅ | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
 | ✅ | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
 | ✅ | `ru` | Russian | `RUS/` | Russian Synodal Translation |
-| 🔄 | `tl` | Tagalog | `TGL/` | Ang Dating Biblia |
+| ✅ | `tl` | Tagalog | `TGL/` | Ang Dating Biblia |
 | ⬜ | `vi` | Vietnamese | `VIE/` | Vietnamese Version |
 ## Medium priority candidates (language already covered in theodia.bibles or global-bibles)
 
