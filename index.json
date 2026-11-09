@@ -78,6 +78,28 @@
       "locale": "ar",
       "version": "1.0.0",
       "storageName": "ARANAV"
+    },
+    {
+      "id": "czbkr",
+      "type": "bible",
+      "path": "Czech-BKR.bible.zip",
+      "name": "Bible Kralická",
+      "description": "Bible Kralická (1613) — Czech translation.",
+      "code": "CZBKR",
+      "locale": "cs",
+      "version": "1.0.0",
+      "storageName": "CZBKR"
+    },
+    {
+      "id": "daot1931nt1907",
+      "type": "bible",
+      "path": "Danish-OT1931-NT1907.bible.zip",
+      "name": "Danish OT1931 / NT1907",
+      "description": "Danish OT1931 / NT1907 (original orthography) — Danish translation.",
+      "code": "DAOT1931NT1907",
+      "locale": "da",
+      "version": "1.0.0",
+      "storageName": "DAOT1931NT1907"
     }
   ]
 }
