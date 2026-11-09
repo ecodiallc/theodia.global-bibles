@@ -155,6 +155,17 @@
       "locale": "ru",
       "version": "1.0.0",
       "storageName": "RUSRST"
+    },
+    {
+      "id": "ptacf",
+      "type": "bible",
+      "path": "Portuguese-Corrigida-Fiel.bible.zip",
+      "name": "Portuguese Corrigida Fiel",
+      "description": "Portuguese Corrigida Fiel (1753/1995) — Portuguese translation. Public Domain (SourceForge zefania-sharp).",
+      "code": "PTACF",
+      "locale": "pt",
+      "version": "1.0.0",
+      "storageName": "PTACF"
     }
   ]
 }

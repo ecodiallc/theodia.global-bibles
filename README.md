@@ -12,6 +12,7 @@
 | `ruc28` | Cornilescu (1928) |
 | `rusrst` | Russian Synodal Translation |
 | `polugdanska` | Biblia Gdańska |
+| `ptacf` | Portuguese Corrigida Fiel |
 | `spaplatense` | Biblia Platense |
 | `sparv` | Reina-Valera |
 | `ntbt` | Nueva Traducción BibliaTodo |
@@ -29,6 +30,7 @@
 - `ruc28`: Cornilescu (1928) — Romanian translation. Public Domain (Zefania XML, SourceForge zefania-sharp; Biola University unbound).
 - `rusrst`: Russian Synodal Translation (1876) — Russian translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module RST, SF_2009-01-20).
 - `polugdanska`: Updated Gdańsk Bible — Polish translation.
+- `ptacf`: Portuguese Corrigida Fiel (1753/1995) — Portuguese translation. Public Domain (SourceForge zefania-sharp).
 - `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.
 - `sparv`: Spanish Reina-Valera — Spanish translation.
 - `ntbt`: Nueva Traducción BibliaTodo (NTBT) — Spanish Bible translation, published by BibliaTodo Bible Society with permission for free digital distribution. Version attribution: *Santa Biblia, Nueva Traducción BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC.* [https://www.bibliatodo.com/ntbt/](https://www.bibliatodo.com/ntbt/)
