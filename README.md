@@ -10,6 +10,7 @@
 | `itdiodati1649` | Giovanni Diodati 1649 |
 | `frelouissegond` | French Louis Segond |
 | `ruc28` | Cornilescu (1928) |
+| `rusrst` | Russian Synodal Translation |
 | `polugdanska` | Biblia Gdańska |
 | `spaplatense` | Biblia Platense |
 | `sparv` | Reina-Valera |
@@ -26,6 +27,7 @@
 - `itdiodati1649`: Giovanni Diodati 1649 — Italian translation. Source: Zefania XML Bible module '1649 Italian Giovanni Diodati Bibbia' (ITADIO), SF_2009-01-23; publisher The Free Bible Group; public-domain 1649 Diodati Bible.
 - `frelouissegond`: French Louis Segond (1910) — French translation. Public Domain (SourceForge zefania-sharp).
 - `ruc28`: Cornilescu (1928) — Romanian translation. Public Domain (Zefania XML, SourceForge zefania-sharp; Biola University unbound).
+- `rusrst`: Russian Synodal Translation (1876) — Russian translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module RST, SF_2009-01-20).
 - `polugdanska`: Updated Gdańsk Bible — Polish translation.
 - `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.
 - `sparv`: Spanish Reina-Valera — Spanish translation.

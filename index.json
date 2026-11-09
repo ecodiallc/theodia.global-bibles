@@ -144,6 +144,17 @@
       "locale": "ro",
       "version": "1.0.0",
       "storageName": "RUC28"
+    },
+    {
+      "id": "rusrst",
+      "type": "bible",
+      "path": "Russian-Synodal.bible.zip",
+      "name": "Russian Synodal Translation",
+      "description": "Russian Synodal Translation (1876) — Russian translation.",
+      "code": "RUSRST",
+      "locale": "ru",
+      "version": "1.0.0",
+      "storageName": "RUSRST"
     }
   ]
 }
