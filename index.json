@@ -177,6 +177,17 @@
       "locale": "tl",
       "version": "1.0.0",
       "storageName": "TLGADB"
+    },
+    {
+      "id": "vie",
+      "type": "bible",
+      "path": "Vietnamese-Version.bible.zip",
+      "name": "Vietnamese Version",
+      "description": "Vietnamese Version — Vietnamese translation. Source: Zefania XML Bible module 'SF_2009-01-20_VIE_VIE (Vietnamese Version)', SourceForge zefania-sharp; public domain (Vietnamese Bible, 1934).",
+      "code": "VIE",
+      "locale": "vi",
+      "version": "1.0.0",
+      "storageName": "VIE"
     }
   ]
 }

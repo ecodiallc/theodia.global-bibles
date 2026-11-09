@@ -32,13 +32,14 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 | ✅ | `da` | Danish | `DAN/` | Danish Version; Danish OT 1931 / NT 1907 (original orthography) |
 | ✅ | `fr` | French | `FRE/` | French Louis Segond; French Darby; Bible de Genève 1669; Bible Ostervald 1877; Bible Martin; French Bible Bovet-Bonnet 1900 |
 | ✅ | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
-| ⬜ | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
+| 🔄 | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
+| 🔄 | `ko` | Korean | `KOR/` | Korean Revised Version 1952–1961; Korean Version |
 | ✅ | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
 | ✅ | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
 | ✅ | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
 | ✅ | `ru` | Russian | `RUS/` | Russian Synodal Translation |
 | ✅ | `tl` | Tagalog | `TGL/` | Ang Dating Biblia |
-| ⬜ | `vi` | Vietnamese | `VIE/` | Vietnamese Version |
+| ✅ | `vi` | Vietnamese | `VIE/` | Vietnamese Version |
 ## Medium priority candidates (language already covered in theodia.bibles or global-bibles)
 
 These languages already have at least one Bible packaged in
@@ -64,7 +65,6 @@ before packaging.
 | ⬜ | `cs` | Czech | `CZE/` | Český studijní překlad; Czech Ekumenický překlad; Nova Bible Kralická (NKB); Preklad 21 |
 | ⬜ | `fr` | French | `FRE/` | French Darby 2006; La Bible de Jérusalem; La Bible Augustin Crampon 1923; La Bible Machaira 2012; La Bible Pirot-Clamer |
 | ⬜ | `it` | Italian | `ITA/` | Italian Version (Riveduta-ish); La Nuova Diodati 1991; Riveduta 1990; La Bibbia CEI '74 |
-| ⬜ | `ko` | Korean | `KOR/` | Korean Revised Version 1952–1961; Korean Version |
 | ⬜ | `mr` | Marathi | `MAR/` | Marathi Indian Revised Version Bible |
 | ⬜ | `pt` | Portuguese | `POR/` | Portuguese Version |
 | ⬜ | `ru` | Russian | `RUS/` | Russian Version; Russian NT with Strong's |
