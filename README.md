@@ -6,6 +6,7 @@
 | `czbkr` | Bible Kralická |
 | `daot1931nt1907` | Danish OT1931 / NT1907 |
 | `fb2004` | Freie Bibel 2004 |
+| `frelouissegond` | French Louis Segond |
 | `polugdanska` | Biblia Gdańska |
 | `spaplatense` | Biblia Platense |
 | `sparv` | Reina-Valera |
@@ -18,6 +19,7 @@
 - `czbkr`: Bible Kralická (1613) — Czech translation.
 - `daot1931nt1907`: Danish OT1931 / NT1907 (original orthography) — Danish translation. Public Domain (SourceForge zefania-sharp).
 - `fb2004`: Freie Bibel 2004 — German translation.
+- `frelouissegond`: French Louis Segond (1910) — French translation. Public Domain (SourceForge zefania-sharp).
 - `polugdanska`: Updated Gdańsk Bible — Polish translation.
 - `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.
 - `sparv`: Spanish Reina-Valera — Spanish translation.

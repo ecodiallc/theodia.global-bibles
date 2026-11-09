@@ -100,6 +100,17 @@
       "locale": "da",
       "version": "1.0.0",
       "storageName": "DAOT1931NT1907"
+    },
+    {
+      "id": "frelouissegond",
+      "type": "bible",
+      "path": "French-Louis-Segond.bible.zip",
+      "name": "French Louis Segond",
+      "description": "French Louis Segond (1910) — French translation.",
+      "code": "FRLS",
+      "locale": "fr",
+      "version": "1.0.0",
+      "storageName": "FRLS"
     }
   ]
 }

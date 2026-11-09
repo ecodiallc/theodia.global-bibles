@@ -28,11 +28,11 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 
 | Status | Locale | Web language | Zefania folder | Candidate translation(s) |
 | --- | --- | --- | --- | --- |
-| ⬜ | `cs` | Czech | `CZE/` | Czech BKR; Bible Kralická (1613) |
-| ⬜ | `da` | Danish | `DAN/` | Danish Version; Danish OT 1931 / NT 1907 (original orthography) |
-| ⬜ | `fr` | French | `FRE/` | French Louis Segond; French Darby; Bible de Genève 1669; Bible Ostervald 1877; Bible Martin; French Bible Bovet-Bonnet 1900 |
-| ⬜ | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
-| ⬜ | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
+| ✅ | `cs` | Czech | `CZE/` | Czech BKR; Bible Kralická (1613) |
+| ✅ | `da` | Danish | `DAN/` | Danish Version; Danish OT 1931 / NT 1907 (original orthography) |
+| ✅ | `fr` | French | `FRE/` | French Louis Segond; French Darby; Bible de Genève 1669; Bible Ostervald 1877; Bible Martin; French Bible Bovet-Bonnet 1900 |
+| 🔄 | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
+| 🔄 | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
 | ⬜ | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
 | ⬜ | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
 | ⬜ | `ru` | Russian | `RUS/` | Russian Synodal Translation |
