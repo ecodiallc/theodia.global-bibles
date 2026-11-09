@@ -5,7 +5,9 @@
 | `aranav` | كتاب الحياة |
 | `czbkr` | Bible Kralická |
 | `daot1931nt1907` | Danish OT1931 / NT1907 |
+| `dutchsv` | Dutch Statenvertaling |
 | `fb2004` | Freie Bibel 2004 |
+| `itdiodati1649` | Giovanni Diodati 1649 |
 | `frelouissegond` | French Louis Segond |
 | `polugdanska` | Biblia Gdańska |
 | `spaplatense` | Biblia Platense |
@@ -18,7 +20,9 @@
 - `aranav`: New Arabic Version (Ketab El Hayat) — Arabic translation.
 - `czbkr`: Bible Kralická (1613) — Czech translation.
 - `daot1931nt1907`: Danish OT1931 / NT1907 (original orthography) — Danish translation. Public Domain (SourceForge zefania-sharp).
+- `dutchsv`: Dutch Statenvertaling (Statenbijbel, 1637) — Dutch translation. Public Domain (SourceForge zefania-sharp).
 - `fb2004`: Freie Bibel 2004 — German translation.
+- `itdiodati1649`: Giovanni Diodati 1649 — Italian translation. Source: Zefania XML Bible module '1649 Italian Giovanni Diodati Bibbia' (ITADIO), SF_2009-01-23; publisher The Free Bible Group; public-domain 1649 Diodati Bible.
 - `frelouissegond`: French Louis Segond (1910) — French translation. Public Domain (SourceForge zefania-sharp).
 - `polugdanska`: Updated Gdańsk Bible — Polish translation.
 - `spaplatense`: Biblia Platense (Straubinger) — Spanish translation.

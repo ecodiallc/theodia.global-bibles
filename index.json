@@ -111,6 +111,28 @@
       "locale": "fr",
       "version": "1.0.0",
       "storageName": "FRLS"
+    },
+    {
+      "id": "itdiodati1649",
+      "type": "bible",
+      "path": "Giovanni-Diodati-1649.bible.zip",
+      "name": "Giovanni Diodati 1649",
+      "description": "Giovanni Diodati 1649 — Italian translation.",
+      "code": "ITDIODATI1649",
+      "locale": "it",
+      "version": "1.0.0",
+      "storageName": "ITDIODATI1649"
+    },
+    {
+      "id": "dutchsv",
+      "type": "bible",
+      "path": "Dutch-Statenvertaling.bible.zip",
+      "name": "Dutch Statenvertaling",
+      "description": "Dutch Statenvertaling (Statenbijbel, 1637) — Dutch translation.",
+      "code": "DUTCHSV",
+      "locale": "nl",
+      "version": "1.0.0",
+      "storageName": "DUTCHSV"
     }
   ]
 }

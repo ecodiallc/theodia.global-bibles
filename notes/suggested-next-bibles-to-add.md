@@ -31,10 +31,11 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 | ✅ | `cs` | Czech | `CZE/` | Czech BKR; Bible Kralická (1613) |
 | ✅ | `da` | Danish | `DAN/` | Danish Version; Danish OT 1931 / NT 1907 (original orthography) |
 | ✅ | `fr` | French | `FRE/` | French Louis Segond; French Darby; Bible de Genève 1669; Bible Ostervald 1877; Bible Martin; French Bible Bovet-Bonnet 1900 |
-| 🔄 | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
-| 🔄 | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
-| ⬜ | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
-| ⬜ | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
+| ✅ | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
+| ⬜ | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
+| ✅ | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
+| 🔄 | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |
+| 🔄 | `ro` | Romanian | `RUM/` | Cornilescu (1928); orthographically corrected Cornilescu |
 | ⬜ | `ru` | Russian | `RUS/` | Russian Synodal Translation |
 | ⬜ | `tl` | Tagalog | `TGL/` | Ang Dating Biblia |
 | ⬜ | `vi` | Vietnamese | `VIE/` | Vietnamese Version |
@@ -63,7 +64,6 @@ before packaging.
 | ⬜ | `cs` | Czech | `CZE/` | Český studijní překlad; Czech Ekumenický překlad; Nova Bible Kralická (NKB); Preklad 21 |
 | ⬜ | `fr` | French | `FRE/` | French Darby 2006; La Bible de Jérusalem; La Bible Augustin Crampon 1923; La Bible Machaira 2012; La Bible Pirot-Clamer |
 | ⬜ | `it` | Italian | `ITA/` | Italian Version (Riveduta-ish); La Nuova Diodati 1991; Riveduta 1990; La Bibbia CEI '74 |
-| ⬜ | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
 | ⬜ | `ko` | Korean | `KOR/` | Korean Revised Version 1952–1961; Korean Version |
 | ⬜ | `mr` | Marathi | `MAR/` | Marathi Indian Revised Version Bible |
 | ⬜ | `pt` | Portuguese | `POR/` | Portuguese Version |
@@ -83,12 +83,12 @@ time of writing. Suggest sourcing from an alternative (OTSeng corpus at
 
 | Status | Locale | Web language | Suggested fallback |
 | --- | --- | --- | --- |
-| ⬜ | `bn` | Bengali | Look in OTSeng corpus; otherwise requires a publisher-licensed source |
-| ⬜ | `fa` | Persian / Farsi | OTSeng corpus or licensed ministry source |
-| ⬜ | `id` | Indonesian | Not in Zefania (the `IKK/` folder is Ika, not Indonesian); OTSeng or licensed |
-| ⬜ | `pa` | Punjabi | Not in Zefania; license required |
-| ⬜ | `te` | Telugu | Not in Zefania; license required |
-| ⬜ | `ur` | Urdu | Not in Zefania; license required |
+| ⬜ | `bn` | Bengali | Ph4 candidate: Bengali Bible: Easy-to-Read (World Bible Translation Center) — verify rights. |
+| ⬜ | `fa` | Persian / Farsi | Ph4 candidates: Farsi Bible; Today's Persian Version (United Bible Societies) — verify rights. |
+| ⬜ | `id` | Indonesian | Ph4 candidates: Bahasa Indonesia Sehari-hari (Wycliffe/IBS); Terjemahan Baru (LAI) — verify rights. |
+| ⬜ | `pa` | Punjabi | Ph4 candidate: Punjabi New Testament Easy-to-Read (WBTC) — NT only; not a full canon |
+| ⬜ | `te` | Telugu | Ph4: Telugu Bible; Telugu Bible Easy-to-Read (WBTC) — verify rights. |
+| ⬜ | `ur` | Urdu | No ph4 candidate found; license required. |
 
 ## Licensing / packaging reminders
 
