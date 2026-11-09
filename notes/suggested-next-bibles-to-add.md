@@ -32,7 +32,7 @@ Status legend: ⬜ to do · 🔄 in progress · ✅ done.
 | ✅ | `da` | Danish | `DAN/` | Danish Version; Danish OT 1931 / NT 1907 (original orthography) |
 | ✅ | `fr` | French | `FRE/` | French Louis Segond; French Darby; Bible de Genève 1669; Bible Ostervald 1877; Bible Martin; French Bible Bovet-Bonnet 1900 |
 | ✅ | `it` | Italian | `ITA/` | Giovanni Diodati 1649 |
-| 🔄 | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
+| ✅ | `ja` | Japanese | `JPN/` | Japanese Kougou-Yaku 1954/55; Japanese Bungo 1953 |
 | ✅ | `ko` | Korean | `KOR/` | Korean Revised Version 1952–1961; Korean Version |
 | ✅ | `nl` | Dutch | `NL/` | Dutch Statenvertaling |
 | ✅ | `pt` | Portuguese | `POR/` | Portuguese Corrigida Fiel (1753) |

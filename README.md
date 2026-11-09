@@ -19,6 +19,7 @@
 | `sparv` | Reina-Valera |
 | `ntbt` | Nueva Traducción BibliaTodo |
 | `ukrub` | Українська Біблія |
+| `japbungo` | Japanese Bungo (1953) |
 | `vie` | Vietnamese Version |
 
 ## Sources
@@ -40,6 +41,7 @@
 - `sparv`: Spanish Reina-Valera — Spanish translation.
 - `ntbt`: Nueva Traducción BibliaTodo (NTBT) — Spanish Bible translation, published by BibliaTodo Bible Society with permission for free digital distribution. Version attribution: *Santa Biblia, Nueva Traducción BibliaTodo (NTBT). Publicada por BibliaTodo Bible Society, sello editorial de BibliaTodo LLC.* [https://www.bibliatodo.com/ntbt/](https://www.bibliatodo.com/ntbt/)
 - `ukrub`: Ukrainian Version — Ukrainian translation.
+- `japbungo`: Japanese Bungo (1953) — Japanese translation (Meiji gen'yaku OT 1953 / Taisho kaiyaku NT, bungo style). Public Domain (Zefania XML, SourceForge zefania-sharp; SF_2026-05-09_JPN_JAPBUNGO_1953).
 - `vie`: Vietnamese Version — Vietnamese translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module VIE, SF_2009-01-20; Vietnamese Bible published in 1934).
 
 ### Download Theodia.app

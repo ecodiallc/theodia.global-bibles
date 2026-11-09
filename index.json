@@ -199,6 +199,17 @@
       "locale": "ko",
       "version": "1.0.0",
       "storageName": "KORRV"
+    },
+    {
+      "id": "japbungo",
+      "type": "bible",
+      "path": "Japanese-Bungo.bible.zip",
+      "name": "Japanese Bungo (1953)",
+      "description": "Japanese Bungo (1953) — Japanese translation (Meiji gen'yaku OT / Taisho kaiyaku NT, bungo style). Public Domain (Zefania XML, SourceForge zefania-sharp).",
+      "code": "JAPBUNGO",
+      "locale": "ja",
+      "version": "1.0.0",
+      "storageName": "JAPBUNGO"
     }
   ]
 }
