@@ -8,6 +8,7 @@
 | `dutchsv` | Dutch Statenvertaling |
 | `fb2004` | Freie Bibel 2004 |
 | `itdiodati1649` | Giovanni Diodati 1649 |
+| `korrv` | Korean Revised Version 1952-1961 |
 | `frelouissegond` | French Louis Segond |
 | `ruc28` | Cornilescu (1928) |
 | `rusrst` | Russian Synodal Translation |
@@ -28,6 +29,7 @@
 - `dutchsv`: Dutch Statenvertaling (Statenbijbel, 1637) — Dutch translation. Public Domain (SourceForge zefania-sharp).
 - `fb2004`: Freie Bibel 2004 — German translation.
 - `itdiodati1649`: Giovanni Diodati 1649 — Italian translation. Source: Zefania XML Bible module '1649 Italian Giovanni Diodati Bibbia' (ITADIO), SF_2009-01-23; publisher The Free Bible Group; public-domain 1649 Diodati Bible.
+- `korrv`: Korean Revised Version (1952-1961) — Korean translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module KOR_KORRV, SF_2022-09-19; Wikisource).
 - `frelouissegond`: French Louis Segond (1910) — French translation. Public Domain (SourceForge zefania-sharp).
 - `ruc28`: Cornilescu (1928) — Romanian translation. Public Domain (Zefania XML, SourceForge zefania-sharp; Biola University unbound).
 - `rusrst`: Russian Synodal Translation (1876) — Russian translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module RST, SF_2009-01-20).

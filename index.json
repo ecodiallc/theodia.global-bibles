@@ -188,6 +188,17 @@
       "locale": "vi",
       "version": "1.0.0",
       "storageName": "VIE"
+    },
+    {
+      "id": "korrv",
+      "type": "bible",
+      "path": "Korean-Revised-Version-1952-1961.bible.zip",
+      "name": "Korean Revised Version 1952-1961",
+      "description": "Korean Revised Version (1952-1961) — Korean translation. Public Domain (SourceForge zefania-sharp; Zefania XML Bible module KOR_KORRV).",
+      "code": "KORRV",
+      "locale": "ko",
+      "version": "1.0.0",
+      "storageName": "KORRV"
     }
   ]
 }
